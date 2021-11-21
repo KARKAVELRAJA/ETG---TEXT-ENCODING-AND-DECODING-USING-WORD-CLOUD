@@ -24,4 +24,4 @@
 - Creating the Word Cloud
 - Text Encoding
 - Text Decoding
-- Finding the Frequency of words
+- Finding the Frequency of each word
